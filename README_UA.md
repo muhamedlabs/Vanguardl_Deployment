@@ -1,10 +1,10 @@
-# Muhamed Ads <a href="README.md"><img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Flags/Russia_flag.png?raw=true" alt="RU" width="28" height="28" style="border-radius: 12px;"></a> <a href="README_UA.md"><img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Flags/Ukraine_flag.png?raw=true" alt="UA" width="28" height="28" style="border-radius: 12px;"></a> <a href="README_EN.md"><img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Flags/Unit_King_flag.png?raw=true" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
+# Vanguardl Deployment <a href="README.md"><img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Flags/Russia_flag.png?raw=true" alt="RU" width="28" height="28" style="border-radius: 12px;"></a> <a href="README_UA.md"><img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Flags/Ukraine_flag.png?raw=true" alt="UA" width="28" height="28" style="border-radius: 12px;"></a> <a href="README_EN.md"><img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Flags/Unit_King_flag.png?raw=true" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
 
-<img width="1920" alt="Muhamed Ads" src="PUT_IMAGE_URL_HERE" />
+<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/d90e56fb-5739-4f6b-a5bd-4a0aed94236a" />
 
 ## Опис
 
-**Muhamed Ads** - бот моніторингу для Discord і Telegram. Він стежить за серверами та сайтом Muhamed Labs, тримає запущених ботів на машинах і пише в канал, якщо щось пішло не так.
+**Vanguardl Deployment** - бот моніторингу для Discord і Telegram. Він стежить за серверами та сайтом Muhamed Abs, тримає запущених ботів на машинах і пише в канал, якщо щось пішло не так.
 
 Підходить для:
 
@@ -231,5 +231,5 @@ python main.py
 <br>
 
 <div align="center">
-  <sub>2023-2028 Muhamed IT</sub>
+  <sub><img src="https://github.com/muhamedlabs/MuhamedTrash/raw/main/Avatars/Muhamed_IT.png" width="20" style="vertical-align: middle;"> 2023-2028 Muhamed IT <img src="https://github.com/muhamedlabs/MuhamedTrash/raw/main/Avatars/Muhamed_IT.png" width="20" style="vertical-align: middle;"> </sub>
 </div>
