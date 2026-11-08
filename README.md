@@ -231,5 +231,5 @@ python main.py
 <br>
 
 <div align="center">
-  <sub>2023-2028 Muhamed IT</sub>
+  <sub><img src="https://github.com/muhamedlabs/MuhamedTrash/raw/main/Avatars/Muhamed_IT.png" width="20" style="vertical-align: middle;"> 2023-2028 Muhamed IT <img src="https://github.com/muhamedlabs/MuhamedTrash/raw/main/Avatars/Muhamed_IT.png" width="20" style="vertical-align: middle;"> </sub>
 </div>
