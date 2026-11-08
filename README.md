@@ -1,10 +1,10 @@
-# Vanguardl_Deployment <a href="README.md"><img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Flags/Russia_flag.png?raw=true" alt="RU" width="28" height="28" style="border-radius: 12px;"></a> <a href="README_UA.md"><img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Flags/Ukraine_flag.png?raw=true" alt="UA" width="28" height="28" style="border-radius: 12px;"></a> <a href="README_EN.md"><img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Flags/Unit_King_flag.png?raw=true" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
+# Vanguardl Deployment <a href="README.md"><img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Flags/Russia_flag.png?raw=true" alt="RU" width="28" height="28" style="border-radius: 12px;"></a> <a href="README_UA.md"><img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Flags/Ukraine_flag.png?raw=true" alt="UA" width="28" height="28" style="border-radius: 12px;"></a> <a href="README_EN.md"><img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Flags/Unit_King_flag.png?raw=true" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
 
 <img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/d90e56fb-5739-4f6b-a5bd-4a0aed94236a" />
 
 ## Описание
 
-**Vanguardl_Deployment** - бот мониторинга для Discord и Telegram. Он следит за серверами и сайтом Muhamed Abs, держит запущенных ботов на машинах и пишет в канал, если что-то пошло не так.
+**Vanguardl Deployment** - бот мониторинга для Discord и Telegram. Он следит за серверами и сайтом Muhamed Abs, держит запущенных ботов на машинах и пишет в канал, если что-то пошло не так.
 
 Подходит для:
 
