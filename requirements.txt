@@ -1,0 +1,7 @@
+disnake>=2.10
+aiogram>=3.13
+asyncssh>=2.14
+aiohttp>=3.9
+openai>=1.40
+python-dotenv>=1.0
+tzdata>=2024.1
