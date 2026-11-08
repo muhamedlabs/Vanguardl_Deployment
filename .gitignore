@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+logs/
+BANNED_FILES/.env
+BANNED_FILES/machines.json
